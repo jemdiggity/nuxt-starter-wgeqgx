@@ -9,6 +9,9 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "nuxt": "^3.10.3"
+    "firebase": "^10.8.1",
+    "nuxt": "^3.10.3",
+    "nuxt-vuefire": "^1.0.2",
+    "vuefire": "^3.1.23"
   }
 }
